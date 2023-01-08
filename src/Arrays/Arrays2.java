@@ -69,7 +69,7 @@ public class Arrays2 {
     }
 
     private static void task4() {
-        System.out.println("Task4!");
+        System.out.println("Task4");
 
         /*
         В бухгалтерской книге появился баг. Что-то пошло нет так — фамилии и имена сотрудников начали отображаться в обратную сторону.
