@@ -197,9 +197,4 @@ public class While2 {
             }
         }
     }
-
-
-
-
-
 }
